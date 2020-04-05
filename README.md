@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
@@ -68,3 +69,6 @@
 | webpack-bundle-analyzer         | Generate report of what's in the app's production bundle         |
 | webpack-cli                     | Run Webpack via the command line                                 |
 | webpack-dev-server              | Serve app via Webpack                                            |
+=======
+# React-Redux
+>>>>>>> d38888166f90afd9d501d2cd365864320ecc7035
